@@ -12,7 +12,7 @@ All tools run **100% client-side**. No data ever leaves your browser.
 |------|-----------|--------|
 | Epoch / Unix Timestamp Converter | [Try it →](https://biztechbridge.com/tools/epoch-converter) | [tools/epoch-converter](tools/epoch-converter/) |
 | JSON Formatter & Validator | [Try it →](https://biztechbridge.com/tools/json-formatter) | Coming soon |
-| JWT Decoder | [Try it →](https://biztechbridge.com/tools/jwt-decoder) | Coming soon |
+| JWT Decoder | [Try it →](https://biztechbridge.com/tools/jwt-decoder) | [tools/jwt-decoder](tools/jwt-decoder/) |
 | QR Code Generator | [Try it →](https://biztechbridge.com/tools/qr-code-generator) | Coming soon |
 | Base64 Encoder / Decoder | [Try it →](https://biztechbridge.com/tools/base64) | Coming soon |
 | Password Generator | [Try it →](https://biztechbridge.com/tools/password-generator) | Coming soon |
